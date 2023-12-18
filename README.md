@@ -40,3 +40,6 @@ In-Game Display:
 Game Ending Menu:
         Upon completion of the game, a menu appears with relevant game information, including the final score, time played, and lives remaining. Players are informed if they have beaten the high score. This menu can only be closed by the player, ensuring a deliberate action to conclude the gaming session.
 
+# Resources
+* https://www.instructables.com/Arduino-Uno-Menu-Template/
+* https://github.com/ondt/arduino-snake
