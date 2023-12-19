@@ -45,7 +45,6 @@ In-Game Display:
 Game Ending Menu:
         Upon completion of the game, the snake length is displayed. Players are informed if they have beaten the high score. This menu can only be closed by the player by pressing the button.
 
-# Video 
 [Watch the video](https://www.youtube.com/shorts/Y7U4Y1t5gCs) to see this functionality in action.
 
 # Resources
