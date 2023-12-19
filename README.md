@@ -17,6 +17,11 @@ On the matrix display, the snake moves around the screen without stopping, eatin
 | Buzzer  | https://www.ardumotive.com/how-to-use-a-buzzer-en.html  |
 | Potentiometer  | https://docs.arduino.cc/learn/electronics/potentiometer-basics  |
 
+# Circuit
+<p align="center">
+  <img src="snake_game_project/circuit.jpeg" alt="Circuit" width="500">
+</p>
+
 # Menu display
 
 Upon powering up the game, a greeting message briefly welcomes the player.
@@ -35,10 +40,13 @@ The menu in the game is designed for a seamless and user-friendly experience. He
   * Displays details about the creator(s) of the game, including the game name, author, and a link to the GitHub profile. Scrolling text ensures a dynamic and engaging presentation.
 
 In-Game Display:
-        While playing the game, the menu provides continuous updates on key information such as lives, level, score, and potentially time, creating an immersive gaming environment.
+        While playing the game, the menu provides continuous updates on key information such as snake length, elapsed time and snake speed, creating an immersive gaming environment.
 
 Game Ending Menu:
-        Upon completion of the game, a menu appears with relevant game information, including the final score, time played, and lives remaining. Players are informed if they have beaten the high score. This menu can only be closed by the player, ensuring a deliberate action to conclude the gaming session.
+        Upon completion of the game, the snake length is displayed. Players are informed if they have beaten the high score. This menu can only be closed by the player by pressing the button.
+
+# Video 
+[Watch the video](https://www.youtube.com/shorts/Y7U4Y1t5gCs) to see this functionality in action.
 
 # Resources
 * https://www.instructables.com/Arduino-Uno-Menu-Template/
